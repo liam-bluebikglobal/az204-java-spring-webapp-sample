@@ -1,0 +1,1 @@
+cd /home/site/wwwroot/ && /home/site/wwwroot/mvnw spring-boot:run
